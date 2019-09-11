@@ -45,7 +45,7 @@
         <jbake.maven.plugin.version>0.0.9</jbake.maven.plugin.version>
         <maven-checkstyle-plugin.version>3.0.0</maven-checkstyle-plugin.version>
         <maven.clean.plugin.version>2.4.1</maven.clean.plugin.version>
-        <maven-dependency-plugin.version>3.0.2</maven-dependency-plugin.version>
+        <maven.dependency.plugin.version>3.0.2</maven.dependency.plugin.version>
         <maven.deploy.plugin.version>2.6</maven.deploy.plugin.version>
         <maven.install.plugin.version>2.5.2</maven.install.plugin.version>
         <maven-jacoco-plugin.version>0.8.2</maven-jacoco-plugin.version>
